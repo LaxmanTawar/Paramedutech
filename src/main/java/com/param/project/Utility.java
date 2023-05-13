@@ -70,5 +70,7 @@ public class Utility {
 		Select select=new Select(dropDown);
 		select.selectByVisibleText(valueToSelect);
 	}
+	public void login(){
+	}
 
 }
